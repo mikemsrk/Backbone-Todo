@@ -1,0 +1,41 @@
+span, input, h2,td{
+	font-family:"Century Gothic";
+}
+
+.date-input{
+	width:140px;
+}
+.title-input{
+	width:320px;
+}
+
+.checked{
+	text-decoration: line-through;
+	background-color:rgb(255, 221, 188);
+}
+.todo-input{
+	float:left;
+	width:60%;
+}
+.goal-input{
+	float:left;
+	width:60%;
+}
+.clear{
+	float:right;
+	display:block;
+}
+thead{
+	background-color:#D0F0DA;
+	font-weight: bold;
+	color:rgb(51, 119, 119);
+}
+a{
+	float:right;
+	display:inline-block;
+	margin:0 5px 0 5px;
+}
+
+span, input,td{
+	font-size:15px;
+}
